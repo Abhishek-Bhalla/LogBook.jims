@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #2563EB;
+  --color-secondary: #3B82F6;
+  --color-background: #F5F7FB;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-gray-800 font-sans m-0;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+}
