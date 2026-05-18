@@ -5,7 +5,6 @@ A full-stack application with a React frontend and Node.js/Express backend, orga
 
 ## Project Structure
 
-
 ├── frontend/                  # React + Vite + Tailwind CSS
 │   ├── src/
 │   │   ├── components/       # Reusable UI components
