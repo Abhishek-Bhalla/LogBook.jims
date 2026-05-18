@@ -1,10 +1,11 @@
+<<<<<<< HEAD
 # Room & Lab Booking Management System
 
 A full-stack application with a React frontend and Node.js/Express backend, organized as a monorepo.
 
 ## Project Structure
 
-```
+
 ├── frontend/                  # React + Vite + Tailwind CSS
 │   ├── src/
 │   │   ├── components/       # Reusable UI components
@@ -173,3 +174,16 @@ VITE_API_URL=/api
 - **Input Validation**: All inputs validated using express-validator
 - **Password Security**: Hashed with bcrypt (12 rounds)
 - **Vite Proxy**: API requests proxied to backend during development
+=======
+
+  # College Room Booking System UI
+
+  This is a code bundle for College Room Booking System UI. 
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
+>>>>>>> 1f0fd5a46acb9a62295417d6fbe763d7ad16a0be
